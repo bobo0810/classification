@@ -1,6 +1,6 @@
 # ======训练|测试======
 ipdb
-opencv-python-headless==4.2.0.34
+opencv-python-headless==4.8.1.78
 opencv-python==4.2.0.34
 numpy>1.22.2
 seaborn
